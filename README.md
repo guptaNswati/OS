@@ -29,3 +29,7 @@ Run
 ----
 - to run with qemu create a bin image
 - to run with vm, create a floppy disk image and copy boot sector code to it.
+
+Demo
+-----
+![Alt text](https://github.com/guptaNswati/OS/blob/master/Os.png)
